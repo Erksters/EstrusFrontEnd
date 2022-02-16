@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/EstrusFrontEnd/static/css/main.5f18e9cb.chunk.css",
-    "main.js": "/EstrusFrontEnd/static/js/main.502a49d5.chunk.js",
-    "main.js.map": "/EstrusFrontEnd/static/js/main.502a49d5.chunk.js.map",
-    "runtime-main.js": "/EstrusFrontEnd/static/js/runtime-main.50fb6e63.js",
-    "runtime-main.js.map": "/EstrusFrontEnd/static/js/runtime-main.50fb6e63.js.map",
-    "static/css/2.5556ba3d.chunk.css": "/EstrusFrontEnd/static/css/2.5556ba3d.chunk.css",
-    "static/js/2.44141a0b.chunk.js": "/EstrusFrontEnd/static/js/2.44141a0b.chunk.js",
-    "static/js/2.44141a0b.chunk.js.map": "/EstrusFrontEnd/static/js/2.44141a0b.chunk.js.map",
-    "index.html": "/EstrusFrontEnd/index.html",
-    "precache-manifest.dd88a37d78410fbd9573e012475f8596.js": "/EstrusFrontEnd/precache-manifest.dd88a37d78410fbd9573e012475f8596.js",
-    "service-worker.js": "/EstrusFrontEnd/service-worker.js",
-    "static/css/2.5556ba3d.chunk.css.map": "/EstrusFrontEnd/static/css/2.5556ba3d.chunk.css.map",
-    "static/css/main.5f18e9cb.chunk.css.map": "/EstrusFrontEnd/static/css/main.5f18e9cb.chunk.css.map",
-    "static/js/2.44141a0b.chunk.js.LICENSE.txt": "/EstrusFrontEnd/static/js/2.44141a0b.chunk.js.LICENSE.txt",
-    "static/media/bp.png": "/EstrusFrontEnd/static/media/bp.eb03b4ae.png",
-    "static/media/brtf_full-color.png": "/EstrusFrontEnd/static/media/brtf_full-color.6eee08a4.png",
-    "static/media/hp.png": "/EstrusFrontEnd/static/media/hp.d0bb69d2.png",
-    "static/media/ssp.png": "/EstrusFrontEnd/static/media/ssp.d13d6e3c.png"
+    "main.css": "/my-app/static/css/main.5f18e9cb.chunk.css",
+    "main.js": "/my-app/static/js/main.1e2124fb.chunk.js",
+    "main.js.map": "/my-app/static/js/main.1e2124fb.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.58a6d01e.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.58a6d01e.js.map",
+    "static/css/2.5556ba3d.chunk.css": "/my-app/static/css/2.5556ba3d.chunk.css",
+    "static/js/2.44141a0b.chunk.js": "/my-app/static/js/2.44141a0b.chunk.js",
+    "static/js/2.44141a0b.chunk.js.map": "/my-app/static/js/2.44141a0b.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.4149c8c38c6b66718f95d4ce7fd72d83.js": "/my-app/precache-manifest.4149c8c38c6b66718f95d4ce7fd72d83.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/2.5556ba3d.chunk.css.map": "/my-app/static/css/2.5556ba3d.chunk.css.map",
+    "static/css/main.5f18e9cb.chunk.css.map": "/my-app/static/css/main.5f18e9cb.chunk.css.map",
+    "static/js/2.44141a0b.chunk.js.LICENSE.txt": "/my-app/static/js/2.44141a0b.chunk.js.LICENSE.txt",
+    "static/media/bp.png": "/my-app/static/media/bp.eb03b4ae.png",
+    "static/media/brtf_full-color.png": "/my-app/static/media/brtf_full-color.6eee08a4.png",
+    "static/media/hp.png": "/my-app/static/media/hp.d0bb69d2.png",
+    "static/media/ssp.png": "/my-app/static/media/ssp.d13d6e3c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.50fb6e63.js",
+    "static/js/runtime-main.58a6d01e.js",
     "static/css/2.5556ba3d.chunk.css",
     "static/js/2.44141a0b.chunk.js",
     "static/css/main.5f18e9cb.chunk.css",
-    "static/js/main.502a49d5.chunk.js"
+    "static/js/main.1e2124fb.chunk.js"
   ]
 }
