@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80a72f7965f1db30d6014a684dd7ff4c",
+    "revision": "91fa1a1d23b214e1b851e14425ae75ac",
     "url": "/EstrusFrontEnd/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EstrusFrontEnd/static/css/2.5556ba3d.chunk.css"
   },
   {
-    "revision": "3797dac877bafd7e8359",
+    "revision": "3b9602daaed6e4f426a7",
     "url": "/EstrusFrontEnd/static/css/main.5f18e9cb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EstrusFrontEnd/static/js/2.a9100523.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3797dac877bafd7e8359",
-    "url": "/EstrusFrontEnd/static/js/main.ceb46c53.chunk.js"
+    "revision": "3b9602daaed6e4f426a7",
+    "url": "/EstrusFrontEnd/static/js/main.e4ee2aac.chunk.js"
   },
   {
     "revision": "acb0d4f0ce7671fd1509",
