@@ -1,19 +1,17 @@
 {
   "files": {
-    "main.css": "/EstrusFrontEnd/static/css/main.5f18e9cb.chunk.css",
-    "main.js": "/EstrusFrontEnd/static/js/main.e4ee2aac.chunk.js",
-    "main.js.map": "/EstrusFrontEnd/static/js/main.e4ee2aac.chunk.js.map",
+    "main.css": "/EstrusFrontEnd/static/css/main.62a21919.chunk.css",
+    "main.js": "/EstrusFrontEnd/static/js/main.223658e2.chunk.js",
+    "main.js.map": "/EstrusFrontEnd/static/js/main.223658e2.chunk.js.map",
     "runtime-main.js": "/EstrusFrontEnd/static/js/runtime-main.13e340dc.js",
     "runtime-main.js.map": "/EstrusFrontEnd/static/js/runtime-main.13e340dc.js.map",
-    "static/css/2.5556ba3d.chunk.css": "/EstrusFrontEnd/static/css/2.5556ba3d.chunk.css",
-    "static/js/2.a9100523.chunk.js": "/EstrusFrontEnd/static/js/2.a9100523.chunk.js",
-    "static/js/2.a9100523.chunk.js.map": "/EstrusFrontEnd/static/js/2.a9100523.chunk.js.map",
+    "static/js/2.e1806d88.chunk.js": "/EstrusFrontEnd/static/js/2.e1806d88.chunk.js",
+    "static/js/2.e1806d88.chunk.js.map": "/EstrusFrontEnd/static/js/2.e1806d88.chunk.js.map",
     "index.html": "/EstrusFrontEnd/index.html",
-    "precache-manifest.f2cbad433959bf3d5a2e0145f34f765f.js": "/EstrusFrontEnd/precache-manifest.f2cbad433959bf3d5a2e0145f34f765f.js",
+    "precache-manifest.5da55e7e2c82f0463bf33a8524c7c286.js": "/EstrusFrontEnd/precache-manifest.5da55e7e2c82f0463bf33a8524c7c286.js",
     "service-worker.js": "/EstrusFrontEnd/service-worker.js",
-    "static/css/2.5556ba3d.chunk.css.map": "/EstrusFrontEnd/static/css/2.5556ba3d.chunk.css.map",
-    "static/css/main.5f18e9cb.chunk.css.map": "/EstrusFrontEnd/static/css/main.5f18e9cb.chunk.css.map",
-    "static/js/2.a9100523.chunk.js.LICENSE.txt": "/EstrusFrontEnd/static/js/2.a9100523.chunk.js.LICENSE.txt",
+    "static/css/main.62a21919.chunk.css.map": "/EstrusFrontEnd/static/css/main.62a21919.chunk.css.map",
+    "static/js/2.e1806d88.chunk.js.LICENSE.txt": "/EstrusFrontEnd/static/js/2.e1806d88.chunk.js.LICENSE.txt",
     "static/media/bp.png": "/EstrusFrontEnd/static/media/bp.eb03b4ae.png",
     "static/media/brtf_full-color.png": "/EstrusFrontEnd/static/media/brtf_full-color.6eee08a4.png",
     "static/media/hp.png": "/EstrusFrontEnd/static/media/hp.d0bb69d2.png",
@@ -21,9 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.13e340dc.js",
-    "static/css/2.5556ba3d.chunk.css",
-    "static/js/2.a9100523.chunk.js",
-    "static/css/main.5f18e9cb.chunk.css",
-    "static/js/main.e4ee2aac.chunk.js"
+    "static/js/2.e1806d88.chunk.js",
+    "static/css/main.62a21919.chunk.css",
+    "static/js/main.223658e2.chunk.js"
   ]
 }
