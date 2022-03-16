@@ -29,7 +29,7 @@ import { BrowserRouter as Router, Route} from "react-router-dom";
 const App = () => {
   //Run url router
   return(
-    <Router>
+    <Router basename='/EstrusFrontEnd/'>
       <div className = "App" >
         <Header/>
         <Route path = "/help"      component = { Help } />
