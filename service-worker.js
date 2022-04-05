@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/EstrusFrontEnd/precache-manifest.d608ad1a5ae641b43cc6bfeab8bc4a82.js"
+  "/EstrusFrontEnd/precache-manifest.93bc08cdac37b1ceeace24d59c6bb58a.js"
 );
 
 self.addEventListener('message', (event) => {
