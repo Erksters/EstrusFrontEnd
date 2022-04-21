@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/EstrusFrontEnd/static/css/main.4e47b896.chunk.css",
-    "main.js": "/EstrusFrontEnd/static/js/main.01f6108e.chunk.js",
-    "main.js.map": "/EstrusFrontEnd/static/js/main.01f6108e.chunk.js.map",
+    "main.js": "/EstrusFrontEnd/static/js/main.672ac158.chunk.js",
+    "main.js.map": "/EstrusFrontEnd/static/js/main.672ac158.chunk.js.map",
     "runtime-main.js": "/EstrusFrontEnd/static/js/runtime-main.13e340dc.js",
     "runtime-main.js.map": "/EstrusFrontEnd/static/js/runtime-main.13e340dc.js.map",
     "static/css/2.68a81a89.chunk.css": "/EstrusFrontEnd/static/css/2.68a81a89.chunk.css",
     "static/js/2.c7ab37b9.chunk.js": "/EstrusFrontEnd/static/js/2.c7ab37b9.chunk.js",
     "static/js/2.c7ab37b9.chunk.js.map": "/EstrusFrontEnd/static/js/2.c7ab37b9.chunk.js.map",
     "index.html": "/EstrusFrontEnd/index.html",
-    "precache-manifest.f5797f600a89d2228be9416b7e930889.js": "/EstrusFrontEnd/precache-manifest.f5797f600a89d2228be9416b7e930889.js",
+    "precache-manifest.f8a8198d386d95868ea4e997b8a24390.js": "/EstrusFrontEnd/precache-manifest.f8a8198d386d95868ea4e997b8a24390.js",
     "service-worker.js": "/EstrusFrontEnd/service-worker.js",
     "static/css/2.68a81a89.chunk.css.map": "/EstrusFrontEnd/static/css/2.68a81a89.chunk.css.map",
     "static/css/main.4e47b896.chunk.css.map": "/EstrusFrontEnd/static/css/main.4e47b896.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.68a81a89.chunk.css",
     "static/js/2.c7ab37b9.chunk.js",
     "static/css/main.4e47b896.chunk.css",
-    "static/js/main.01f6108e.chunk.js"
+    "static/js/main.672ac158.chunk.js"
   ]
 }
