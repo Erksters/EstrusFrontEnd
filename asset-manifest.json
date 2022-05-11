@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/EstrusFrontEnd/static/css/main.12ca6642.chunk.css",
-    "main.js": "/EstrusFrontEnd/static/js/main.c0a39b57.chunk.js",
-    "main.js.map": "/EstrusFrontEnd/static/js/main.c0a39b57.chunk.js.map",
+    "main.js": "/EstrusFrontEnd/static/js/main.7f452e8a.chunk.js",
+    "main.js.map": "/EstrusFrontEnd/static/js/main.7f452e8a.chunk.js.map",
     "runtime-main.js": "/EstrusFrontEnd/static/js/runtime-main.13e340dc.js",
     "runtime-main.js.map": "/EstrusFrontEnd/static/js/runtime-main.13e340dc.js.map",
     "static/css/2.68a81a89.chunk.css": "/EstrusFrontEnd/static/css/2.68a81a89.chunk.css",
-    "static/js/2.c7ab37b9.chunk.js": "/EstrusFrontEnd/static/js/2.c7ab37b9.chunk.js",
-    "static/js/2.c7ab37b9.chunk.js.map": "/EstrusFrontEnd/static/js/2.c7ab37b9.chunk.js.map",
+    "static/js/2.606e4eb3.chunk.js": "/EstrusFrontEnd/static/js/2.606e4eb3.chunk.js",
+    "static/js/2.606e4eb3.chunk.js.map": "/EstrusFrontEnd/static/js/2.606e4eb3.chunk.js.map",
     "index.html": "/EstrusFrontEnd/index.html",
-    "precache-manifest.708af9cb3e45c9e8aab225f7da5558b3.js": "/EstrusFrontEnd/precache-manifest.708af9cb3e45c9e8aab225f7da5558b3.js",
+    "precache-manifest.49324c5162726f0ae1460055e2ae1b51.js": "/EstrusFrontEnd/precache-manifest.49324c5162726f0ae1460055e2ae1b51.js",
     "service-worker.js": "/EstrusFrontEnd/service-worker.js",
     "static/css/2.68a81a89.chunk.css.map": "/EstrusFrontEnd/static/css/2.68a81a89.chunk.css.map",
     "static/css/main.12ca6642.chunk.css.map": "/EstrusFrontEnd/static/css/main.12ca6642.chunk.css.map",
-    "static/js/2.c7ab37b9.chunk.js.LICENSE.txt": "/EstrusFrontEnd/static/js/2.c7ab37b9.chunk.js.LICENSE.txt",
+    "static/js/2.606e4eb3.chunk.js.LICENSE.txt": "/EstrusFrontEnd/static/js/2.606e4eb3.chunk.js.LICENSE.txt",
     "static/media/1.svg": "/EstrusFrontEnd/static/media/1.080517c6.svg",
     "static/media/2.svg": "/EstrusFrontEnd/static/media/2.2e1d6411.svg",
     "static/media/3.svg": "/EstrusFrontEnd/static/media/3.b06961fa.svg",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.13e340dc.js",
     "static/css/2.68a81a89.chunk.css",
-    "static/js/2.c7ab37b9.chunk.js",
+    "static/js/2.606e4eb3.chunk.js",
     "static/css/main.12ca6642.chunk.css",
-    "static/js/main.c0a39b57.chunk.js"
+    "static/js/main.7f452e8a.chunk.js"
   ]
 }
